@@ -92,7 +92,7 @@ Test.cmd
 
 Codex Quota Pet is a tiny native Windows companion that sits near the edge of your desktop and watches your Codex quota, reset countdown, and local Token usage.
 
-It does not modify Codex, read your credentials, or spend anything on your behalf. Its two jobs are being useful and being a cat.
+It does not modify Codex, read your credentials, or spend anything on your behf. Its two jobs are being useful and being a cat.
 
 ### Meet the quota cat
 
@@ -137,12 +137,5 @@ The build creates:
 
 Quota data is read from a short-lived local `codex app-server` process. Token history is calculated from cumulative counters in local `CODEX_HOME/sessions` files.
 
-If a field is unavailable, the UI says so. Missing reset-credit data is displayed as “Not provided”; the app never guesses or reuses a stale number.
-
-> Local Token totals represent sessions visible on this computer and can differ from cross-device account totals.
-
----
-
-<div align="center">
-  <strong>Made for Codex users, supervised by one very small cat. 🐾</strong>
-</div>
+If a field is unavailable, the UI says so. Missing reset-credit data is displayed��̃�q9�Ё�ɽ٥����t�ѡ��������ٕȁ�Օ�͕́�ȁɕ�͕́���х����յ��ȸ((��1�����Q�����ѽх�́ɕ�ɕ͕�Ё͕�ͥ��́٥ͥ�������ѡ�́�����ѕȁ�������������ȁ�ɽ���ɽ�̵��٥�������չЁѽх�̸((���((�؁�����􉍕�ѕȈ�(�����ɽ���5������ȁ
+������͕�̰������٥͕���䁽���ٕ��͵������и��~B����ɽ���(𽑥��(
