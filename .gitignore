@@ -1,0 +1,9 @@
+bin/
+obj/
+publish/
+logs/
+settings.json
+*.user
+*.suo
+*.pdb
+*.tmp

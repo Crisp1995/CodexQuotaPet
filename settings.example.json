@@ -1,0 +1,18 @@
+{
+  "refreshIntervalSeconds": 180,
+  "warningThreshold": 30,
+  "criticalThreshold": 15,
+  "detailedMode": false,
+  "alwaysOnTop": true,
+  "lowQuotaNotification": true,
+  "startWithWindows": false,
+  "snapToScreen": true,
+  "windowLeft": null,
+  "windowTop": null,
+  "simpleWidth": 84,
+  "simpleHeight": 84,
+  "detailWidth": 590,
+  "detailHeight": 760,
+  "codexExecutable": null,
+  "codexHome": null
+}
